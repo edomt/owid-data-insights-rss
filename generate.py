@@ -11,6 +11,7 @@ OUTPUT_FILE = "data_insights.xml"
 
 def get_soup(url):
     response = requests.get(url)
+    response.encoding = "utf-8"
     soup = BeautifulSoup(response.text, "html.parser")
     return soup
 
@@ -43,6 +44,9 @@ def generate_rss_feed(data):
         link="https://ourworldindata.org/data-insights",
         description="Data Insights from Our World in Data",
     )
+
+    # Set RSS encoding to UTF-8
+    rss.encoding = "UTF-8"
 
     # Add items to the RSS feed
     for item in data["dataInsights"]:
@@ -83,7 +87,7 @@ def main():
     rss_feed = generate_rss_feed(data)
 
     # Write the RSS feed to a file
-    with open(OUTPUT_FILE, "w") as f:
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(rss_feed)
 
 
