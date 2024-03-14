@@ -73,7 +73,7 @@ def generate_rss_feed(data):
     rss.lastBuildDate = max([item.pubDate for item in rss.items])
 
     # Generate the RSS feed
-    return rss.to_xml()
+    return rss
 
 
 def main():
@@ -87,8 +87,8 @@ def main():
     rss_feed = generate_rss_feed(data)
 
     # Write the RSS feed to a file
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write(rss_feed)
+    with open(OUTPUT_FILE, "wb") as f:
+        rss_feed.write_xml(f, encoding="utf-8")
 
 
 if __name__ == "__main__":
