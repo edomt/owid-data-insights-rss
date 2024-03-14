@@ -42,7 +42,6 @@ def generate_rss_feed(data):
         title="Our World in Data - Data Insights",
         link="https://ourworldindata.org/data-insights",
         description="Data Insights from Our World in Data",
-        lastBuildDate=datetime.datetime.utcnow(),
     )
 
     # Add items to the RSS feed
@@ -65,6 +64,9 @@ def generate_rss_feed(data):
                 ),
             )
         )
+
+    # Set lastBuildDate to the max pubDate
+    rss.lastBuildDate = max([item.pubDate for item in rss.items])
 
     # Generate the RSS feed
     return rss.to_xml()
