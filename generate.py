@@ -59,7 +59,7 @@ def generate_rss_feed(data):
             PyRSS2Gen.RSSItem(
                 title=item["content"]["title"],
                 link=f'https://ourworldindata.org/data-insight/{item["slug"]}',
-                description=excerpt,
+                description=f"{excerpt} (…) https://ourworldindata.org/data-insight/{item['slug']}",
                 guid=PyRSS2Gen.Guid(
                     f'https://ourworldindata.org/data-insight/{item["slug"]}'
                 ),
