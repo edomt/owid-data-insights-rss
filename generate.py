@@ -62,10 +62,10 @@ def generate_rss_feed(data):
         rss.items.append(
             PyRSS2Gen.RSSItem(
                 title=item["content"]["title"],
-                link=f'https://ourworldindata.org/data-insight/{item["slug"]}',
+                link=f'https://ourworldindata.org/data-insights/{item["slug"]}',
                 description=f"By {authors} — {excerpt} (…)",
                 guid=PyRSS2Gen.Guid(
-                    f'https://ourworldindata.org/data-insight/{item["slug"]}'
+                    f'https://ourworldindata.org/data-insights/{item["slug"]}'
                 ),
                 pubDate=datetime.datetime.strptime(
                     item["publishedAt"], "%Y-%m-%dT%H:%M:%S.%fZ"
