@@ -40,7 +40,7 @@ def parse_json(soup):
 def generate_rss_feed(data):
     # Create an RSS feed
     rss = PyRSS2Gen.RSS2(
-        title="Our World in Data - Data Insights",
+        title="Data Insights",
         link="https://ourworldindata.org/data-insights",
         description="Data Insights from Our World in Data",
     )
@@ -50,6 +50,10 @@ def generate_rss_feed(data):
 
     # Add items to the RSS feed
     for item in data["dataInsights"]:
+        # Identify authors
+        authors = ", ".join(item["content"]["authors"])
+
+        # Create an excerpt from the first text part
         for part in item["content"]["body"]:
             if part["type"] == "text":
                 excerpt = part["value"][0]["text"]
@@ -59,7 +63,7 @@ def generate_rss_feed(data):
             PyRSS2Gen.RSSItem(
                 title=item["content"]["title"],
                 link=f'https://ourworldindata.org/data-insight/{item["slug"]}',
-                description=f"{excerpt} (…) https://ourworldindata.org/data-insight/{item['slug']}",
+                description=f"By {authors}. {excerpt}",
                 guid=PyRSS2Gen.Guid(
                     f'https://ourworldindata.org/data-insight/{item["slug"]}'
                 ),
