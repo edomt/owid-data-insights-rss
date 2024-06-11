@@ -1,42 +1,34 @@
-<feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
     <title>Our World in Data - Data Insights</title>
-    <subtitle>
-        Bite-sized insights on how the world is changing, written by our team
-    </subtitle>
+    <subtitle>Bite-sized insights on how the world is changing, written by our team</subtitle>
     <id>https://ourworldindata.org/data-insights/</id>
     <link type="text/html" rel="alternate" href="https://ourworldindata.org/data-insights" />
-    <link type="application/atom+xml" rel="self"
-        href="https://ourworldindata.org/atom-data-insights.xml" />
+    <link type="application/atom+xml" rel="self" href="https://ourworldindata.org/atom-data-insights.xml" />
     <updated>2024-06-11T14:46:21.000Z</updated>
     <entry>
-        <title>
-            Homicide rates have declined dramatically over the centuries
-        </title>
-        <id>
-            https://ourworldindata.org/data-insights/homicide-rates-have-declined-dramatically-over-the-centuries
-        </id>
-        <link rel="alternate"
-            href="https://ourworldindata.org/data-insights/homicide-rates-have-declined-dramatically-over-the-centuries" />
+        <title>Homicide rates have declined dramatically over the centuries</title>
+        <id>https://ourworldindata.org/data-insights/homicide-rates-have-declined-dramatically-over-the-centuries</id>
+        <link rel="alternate" href="https://ourworldindata.org/data-insights/homicide-rates-have-declined-dramatically-over-the-centuries" />
         <published>2024-06-11T11:00:00.000Z</published>
         <updated>2024-06-11T11:00:00.000Z</updated>
         <author>
             <name>Bastian Herre</name>
         </author>
-        <summary><img
-                src="https://ourworldindata.org/images/published/homicide-rates-across-western-europe-mobile_850.png" />It
-            is hard to imagine just how violent the past was.<br /><br />The chart shows that in the
-            13th and 14th centuries, based on data from researcher Manuel Eisner, homicide rates
-            across Western Europe were higher than 10 murders per 100,000 people in a year. In
-            Italy, the rate was as high as 70 murders per 100,000 people.<br /><br />Since then,
-            murder rates have fallen significantly across these countries. According to data from
-            WHO’s Mortality Database, their homicide rate is now around 1 murder per 100,000 people
-            — less than a tenth of what it used to be.<br /><br />Despite these improvements,
-            homicides remain a common <a
-                href="https://ourworldindata.org/grapher/annual-number-of-deaths-by-cause">cause of
+        <summary><![CDATA[<img
+            src="https://ourworldindata.org/images/published/homicide-rates-across-western-europe-mobile_850.png" />It
+        is hard to imagine just how violent the past was.<br /><br />The chart shows that in the
+        13th and 14th centuries, based on data from researcher Manuel Eisner, homicide rates across
+        Western Europe were higher than 10 murders per 100,000 people in a year. In Italy, the rate
+        was as high as 70 murders per 100,000 people.<br /><br />Since then, murder rates have
+        fallen significantly across these countries. According to data from WHO’s Mortality
+        Database, their homicide rate is now around 1 murder per 100,000 people — less than a tenth
+        of what it used to be.<br /><br />Despite these improvements, homicides remain a common <a
+            href="https://ourworldindata.org/grapher/annual-number-of-deaths-by-cause">cause of
             death</a> globally and are even a <a
-                href="https://ourworldindata.org/grapher/share-of-deaths-from-homicide">leading
-                cause</a> in some countries. But significant and lasting reductions in violence
-            between people are possible. </a>
-        </summary>
+            href="https://ourworldindata.org/grapher/share-of-deaths-from-homicide">leading
+            cause</a> in some countries. But significant and lasting reductions in violence between
+        people are possible.]]>
+    </summary>
     </entry>
 </feed>
