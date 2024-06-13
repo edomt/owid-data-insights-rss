@@ -5,7 +5,20 @@
     <id>https://ourworldindata.org/data-insights/</id>
     <link type="text/html" rel="alternate" href="https://ourworldindata.org/data-insights" />
     <link type="application/atom+xml" rel="self" href="https://ourworldindata.org/atom-data-insights.xml" />
-    <updated>2024-06-12T09:00:00.000Z</updated>
+    <updated>2024-06-13T09:00:00.000Z</updated>
+    <entry>
+        <title>Solar panel prices have fallen by around 20% every time global capacity doubled</title>
+        <id>https://ourworldindata.org/data-insights/solar-panel-prices-have-fallen-by-around-20-every-time-global-capacity-doubled</id>
+        <link rel="alternate" href="https://ourworldindata.org/data-insights/solar-panel-prices-have-fallen-by-around-20-every-time-global-capacity-doubled" />
+        <published>2024-06-13T09:00:00.000Z</published>
+        <updated>2024-06-13T09:00:00.000Z</updated>
+        <author>
+            <name>Hannah Ritchie</name>
+        </author>
+        <summary><![CDATA[<img
+            src="https://ourworldindata.org/images/published/solar-learning-curve-mobile.png" /><br><br>One of the most transformative changes in technology over the last few decades has been the massive drop in the cost of clean energy. Solar photovoltaic costs have fallen by 90% in the last decade, onshore wind by 70%, and batteries by more than 90%.<br><br>These technologies have followed a “learning curve” called Wright’s Law. This states that the cost of technology falls consistently as the cumulative production of that technology increases.<br><br>The chart shows the perfect example of this for solar power. This data comes from the International Renewable Agency, Greg Nemet, and Doyne Farmer & François Lafond.<br><br>On the horizontal axis, we have the cumulative installed capacity of solar panels, and on the vertical axis, the cost. Both are measured on logarithmic scales, and the trend follows a straight line. That means the fall in cost has been exponential.<br><br>Costs have fallen by around 20% every time the global cumulative capacity doubles. Over four decades, solar power has transformed from one of the most expensive electricity sources to the cheapest in many countries.<br><br><a href="https://ourworldindata.org/learning-curve">Learning curves: What does it mean for a technology to follow Wright’s Law?</a> →]]>
+    </summary>
+    </entry>
     <entry>
         <title>The price of lighting has dropped over 99.9% since 1700</title>
         <id>https://ourworldindata.org/data-insights/the-price-of-lighting-has-dropped-over-999-since-1700</id>
