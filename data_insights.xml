@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <title>Our World in Data - Data Insights</title>
     <subtitle>Bite-sized insights on how the world is changing, written by our team</subtitle>
     <id>https://ourworldindata.org/data-insights/</id>
@@ -15,9 +15,10 @@
         <author>
             <name>Hannah Ritchie</name>
         </author>
-        <summary><![CDATA[<img
+        <content type="html"><![CDATA[<img
             src="https://ourworldindata.org/images/published/solar-learning-curve-mobile.png" /><br><br>One of the most transformative changes in technology over the last few decades has been the massive drop in the cost of clean energy. Solar photovoltaic costs have fallen by 90% in the last decade, onshore wind by 70%, and batteries by more than 90%.<br><br>These technologies have followed a “learning curve” called Wright’s Law. This states that the cost of technology falls consistently as the cumulative production of that technology increases.<br><br>The chart shows the perfect example of this for solar power. This data comes from the International Renewable Agency, Greg Nemet, and Doyne Farmer & François Lafond.<br><br>On the horizontal axis, we have the cumulative installed capacity of solar panels, and on the vertical axis, the cost. Both are measured on logarithmic scales, and the trend follows a straight line. That means the fall in cost has been <em>exponential</em>.<br><br>Costs have fallen by around 20% every time the global cumulative capacity doubles. Over four decades, solar power has transformed from one of the most expensive electricity sources to the cheapest in many countries.<br><br><a href="https://ourworldindata.org/learning-curve">Learning curves: What does it mean for a technology to follow Wright’s Law?</a> →]]>
-    </summary>
+            </content>
+        <summary>One of the most transformative changes in technology over the last few decades has been the massive drop in the cost of clean energy. Solar photovoltaic costs have fallen by 90% in the last decade, onshore wind by 70%, and batteries by more than 90%.</summary>
     </entry>
     <entry>
         <title>The price of lighting has dropped over 99.9% since 1700</title>
@@ -28,9 +29,10 @@
         <author>
             <name>Esteban Ortiz-Ospina</name>
         </author>
-        <summary><![CDATA[<img
+        <content type="html"><![CDATA[<img
             src="https://ourworldindata.org/images/published/price-lighting-mobile_1350.png" /><br><br>In the last two centuries, the price of lighting has decreased drastically.<br><br>You can see this in the chart, which plots historical data from <a href="https://www.researchgate.net/profile/Roger-Fouquet/publication/241752411_The_Long_Run_Demand_for_Lighting_Elasticities_and_Rebound_Effects_in_Different_Phases_of_Economic_Development/links/0a85e52fb80f72624c000000/The-Long-Run-Demand-for-Lighting-Elasticities-and-Rebound-Effects-in-Different-Phases-of-Economic-Development.pdf">Roger Fouquet and Peter Pearson</a>. To allow for comparisons over time, the data is adjusted for inflation and expressed in prices for the year 2000.<br><br>In the 1300s, one million lumen-hours — a standard lighting measure — would have cost around £40,800 in 2000 prices. By 2006, this had fallen to £2.90, a 14,000-fold decline.<br><br>Innovations in lighting appliances, fuels, infrastructures, and institutions during the 19th and 20th centuries made this progress possible.<br><br>To put this in perspective, consider that a standard 100-watt incandescent light bulb today can emit about 1,700 lumens. Therefore, running one such bulb for 24 hours would produce about 50,000 lumen-hours. That means that 1 million lumen-hours today would require continuously keeping a standard 100-watt incandescent bulb on for about 25 days. Achieving the same amount of light with candles would require burning more than 100 candles every day for that period.<br><br>Most people today take the ability to switch on a light at night for granted. But those who live or have lived without artificial light can appreciate how important it is.]]>
-    </summary>
+            </content>
+        <summary>In the last two centuries, the price of lighting has decreased drastically.</summary>
     </entry>
     <entry>
         <title>Homicide rates have declined dramatically over the centuries</title>
@@ -41,7 +43,7 @@
         <author>
             <name>Bastian Herre</name>
         </author>
-        <summary><![CDATA[<img
+        <content type="html"><![CDATA[<img
             src="https://ourworldindata.org/images/published/homicide-rates-across-western-europe-mobile_850.png" /><br /><br>It
         is hard to imagine just how violent the past was.<br /><br />The chart shows that in the
         13th and 14th centuries, based on data from researcher Manuel Eisner, homicide rates across
@@ -55,6 +57,7 @@
             href="https://ourworldindata.org/grapher/share-of-deaths-from-homicide">leading
             cause</a> in some countries. But significant and lasting reductions in violence between
         people are possible.]]>
-    </summary>
+            </content>
+        <summary>It is hard to imagine just how violent the past was.</summary>
     </entry>
 </feed>
