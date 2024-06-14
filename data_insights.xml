@@ -5,7 +5,16 @@
         <description>Bite-sized insights on how the world is changing, written by our team</description>
         <link>https://ourworldindata.org/data-insights/</link>
         <atom:link href="https://ourworldindata.org/atom-data-insights.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Thu, 13 Jun 2024 07:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 07:00:00 GMT</lastBuildDate>
+        <item>
+            <title>Human rights have improved in all world regions over the last century</title>
+            <guid>https://ourworldindata.org/data-insights/human-rights-have-improved-in-all-world-regions-over-the-last-century</guid>
+            <pubDate>Fri, 14 Jun 2024 07:00:00 GMT</pubDate>
+            <dc:creator>Bastian Herre</dc:creator>
+            <content:encoded><![CDATA[<img
+            src="https://ourworldindata.org/images/published/human-rights-index-vdem-mobile.png" /><br><br>Human rights are much better protected in all world regions than a century ago, according to data by <a href="https://ourworldindata.org/vdem-human-rights-data">Varieties of Democracy</a>.<br><br>This recently updated chart shows an index <a href="https://ourworldindata.org/vdem-human-rights-data">that captures human rights</a>. The index ranges from 0 (least rights) to 1 (most). As you can see, every world region scored significantly higher in 2023 than 100 years ago.<br><br>Although progress has not been steady, and there have been setbacks — including in recent years — the overall improvements have been substantial. These trends remain when <a href="https://ourworldindata.org/grapher/human-rights-index-population-weighted?time=1923..latest">giving more weight to countries with larger populations</a>.<br><br>While progress has been made in all world regions, there are still big disparities across them, with Africa and Asia lagging behind. And the strong protections on other continents show that further global progress is possible.<br><br><a href="https://ourworldindata.org/grapher/human-rights-index-vdem?tab=chart&time=1900..latest&country=OWID_ASI~OWID_AFR~OWID_EUR~OWID_NAM~OWID_SAM~OWID_OCE">Explore this data</a> →]]>
+            </content:encoded>
+        </item>
         <item>
             <title>Solar panel prices have fallen by around 20% every time global capacity doubled</title>
             <guid>https://ourworldindata.org/data-insights/solar-panel-prices-have-fallen-by-around-20-every-time-global-capacity-doubled</guid>
