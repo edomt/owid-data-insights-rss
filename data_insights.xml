@@ -5,6 +5,16 @@
         <description>Bite-sized insights on how the world is changing, written by our team</description>
         <link>https://ourworldindata.org/data-insights/</link>
         <atom:link href="https://ourworldindata.org/atom-data-insights.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Mon, 17 Jun 2024 07:00:00 GMT</lastBuildDate>
+        <item>
+            <title>Extreme poverty, though lower than in the past, is still very high in Sub-Saharan Africa</title>
+            <guid>https://ourworldindata.org/data-insights/extreme-poverty-though-vastly-reduced-is-still-very-high-in-sub-saharan-africa</guid>
+            <pubDate>Mon, 17 Jun 2024 07:00:00 GMT</pubDate>
+            <dc:creator>Pablo Arriagada</dc:creator>
+            <content:encoded><![CDATA[<img
+            src="https://ourworldindata.org/images/published/share-of-population-in-extreme-poverty-ssa-eap-mobile_1350.png" /><br><br>The United Nations’ first Sustainable Development Goal is to <a href="https://ourworldindata.org/sdgs/no-poverty">“end poverty in all its forms everywhere”</a> by 2030. The world is still very far away from this goal.<br><br>The data from the World Bank shows that in 1990, 55% of the population in Sub-Saharan Africa and 65% in East Asia and the Pacific lived in these conditions — broadly similar figures. But the most recent figures were 37% in Sub-Saharan Africa and 1% in East Asia and the Pacific.<br><br>The United Nations focuses on “extreme poverty” in its Sustainable Development Goals agenda. They define this as living with less than $2.15 per day. This figure represents what $2.15 could buy you in the United States in 2017 prices; it is adjusted for inflation and cost of living differences between countries.<br><br><a href="https://ourworldindata.org/grapher/share-of-population-in-extreme-poverty?tab=chart&facet=none&country=Sub-Saharan+Africa+%28PIP%29~East+Asia+and+Pacific+%28PIP%29">Explore this data</a> →]]>
+            </content:encoded>
+        </item>
         <lastBuildDate>Fri, 14 Jun 2024 07:00:00 GMT</lastBuildDate>
         <item>
             <title>Human rights have improved in all world regions over the last century</title>
