@@ -5,6 +5,16 @@
         <description>Bite-sized insights on how the world is changing, written by our team</description>
         <link>https://ourworldindata.org/data-insights/</link>
         <atom:link href="https://ourworldindata.org/atom-data-insights.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Tue, 18 Jun 2024 07:00:00 GMT</lastBuildDate>
+        <item>
+            <title>Coal power is dying in Western Europe</title>
+            <guid>https://ourworldindata.org/data-insights/coal-power-is-dying-in-western-europe</guid>
+            <pubDate>Tue, 18 Jun 2024 07:00:00 GMT</pubDate>
+            <dc:creator>Hannah Ritchie</dc:creator>
+            <content:encoded><![CDATA[<img
+            src="https://ourworldindata.org/images/published/coal-europe-mobile.png" /><br><br>Coal dominated Europe's electricity mix over the 20th century, but it is quickly dying in many countries in the 21st.<br><br>The chart shows the share of electricity that comes from coal for a range of countries in Western Europe. The data comes from <a href="https://ember-climate.org/">Ember</a>.<br><br>Transitioning away from coal has helped <a href="https://ourworldindata.org/explorers/co2?stackMode=relative&time=2000..latest&facet=none&country=GBR~IRL~ESP~PRT~GRC~DNK~NLD~DEU&Gas+or+Warming=CO%E2%82%82&Accounting=Territorial&Fuel+or+Land+Use+Change=All+fossil+emissions&Count=Per+country">reduce carbon emissions</a> and <a href="https://ourworldindata.org/explorers/air-pollution?time=1990..latest&facet=entity&uniformYAxis=0&country=GBR~IRL~ESP~DNK~DEU~GRC~NLD~PRT~ITA&Pollutant=Nitrogen+oxides+%28NOx%29&Sector=From+all+sectors+%28Total%29&Per+capita=false">local air pollutants</a>.<br><br><a href="https://ourworldindata.org/grapher/share-electricity-coal">Explore the data</a> →]]>
+            </content:encoded>
+        </item>
         <lastBuildDate>Mon, 17 Jun 2024 07:00:00 GMT</lastBuildDate>
         <item>
             <title>Extreme poverty, though lower than in the past, is still very high in Sub-Saharan Africa</title>
