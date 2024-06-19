@@ -5,7 +5,16 @@
         <description>Bite-sized insights on how the world is changing, written by our team</description>
         <link>https://ourworldindata.org/data-insights/</link>
         <atom:link href="https://ourworldindata.org/atom-data-insights.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Tue, 18 Jun 2024 07:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jun 2024 07:00:00 GMT</lastBuildDate>
+        <item>
+            <title>Family is very important to people around the world</title>
+            <guid>https://ourworldindata.org/data-insights/family-is-very-important-to-people-around-the-world</guid>
+            <pubDate>Wed, 19 Jun 2024 07:00:00 GMT</pubDate>
+            <dc:creator>Bastian Herre</dc:creator>
+            <content:encoded><![CDATA[<img
+            src="https://ourworldindata.org/images/published/how-important-family-is-to-people-in-life-mobile.png" /><br><br>Most people agree that family is very important, no matter where they live.<br><br>Using data from the European Values Study and World Values Survey, the chart shows that a large majority of people worldwide declare family to be important in their lives. This share is above 80% in every country <a href="https://ourworldindata.org/grapher/how-important-family-is-to-people-in-life?country=CAN~HKG~LVA~NIC~NLD~LTU">except six</a>.<br><br>Only a small percentage of people say they find family “not very important” or “not important at all”.<br><br>Despite our disagreements, we should remember how much people across countries and cultures agree on what truly matters to them.<br><br><a href="https://ourworldindata.org/grapher/how-important-family-is-to-people-in-life">Explore this data</a> →]]>
+            </content:encoded>
+        </item>
         <item>
             <title>Coal power is dying in Western Europe</title>
             <guid>https://ourworldindata.org/data-insights/coal-power-is-dying-in-western-europe</guid>
