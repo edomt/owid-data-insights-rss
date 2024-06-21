@@ -5,6 +5,16 @@
         <description>Bite-sized insights on how the world is changing, written by our team</description>
         <link>https://ourworldindata.org/data-insights/</link>
         <atom:link href="https://ourworldindata.org/atom-data-insights.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Fri, 21 Jun 2024 07:00:00 GMT</lastBuildDate>
+        <item>
+            <title>How much of national income goes to the richest 1%?</title>
+            <guid>https://ourworldindata.org/data-insights/how-much-of-national-income-goes-to-the-richest1</guid>
+            <pubDate>Fri, 21 Jun 2024 07:00:00 GMT</pubDate>
+            <dc:creator>Pablo Arriagada</dc:creator>
+            <content:encoded><![CDATA[<img
+            src="https://ourworldindata.org/images/published/share-of-income-before.png" /><br><br>Globally, there are large differences in the estimated share of income received by the richest 1% of the population. In Norway and Slovakia, it’s 7%; 27% in Mexico, and 31% in Mozambique and the Central African Republic.<br><br>You might expect these numbers to be strongly correlated to a country's level of economic development. But this isn't always the case. In the United States, for example, 1% of its population takes home 21% of national income. This is relatively high globally.<br><br>The data comes from the World Inequality Database, and we just updated our charts with their latest data. The data above is based on income before taxes and benefits, but after-tax incomes show a broadly similar inequality map.<br><br>Explore this data →]]>
+            </content:encoded>
+        </item>
         <lastBuildDate>Wed, 19 Jun 2024 07:00:00 GMT</lastBuildDate>
         <item>
             <title>Family is very important to people around the world</title>
